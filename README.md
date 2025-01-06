@@ -17,3 +17,17 @@ The **Vehicle Accident Identification and Alert System** is an innovative soluti
 3. **Immediate Notification**: The system sends an alert with the location to the **Blynk app** and also sends an **SMS** to emergency contacts via the **GSM module**.
 4. **Real-time Action**: The **LED indicator** turns on, and the accident details, including location, are sent to the emergency contacts, ensuring quick assistance.
 5. **Buzzer Alert**: The **buzzer** will emit a loud sound to alert nearby individuals, ensuring the accident is noticed by those in the vicinity for faster intervention.
+   Lnaguage used : python
+
+
+
+
+
+## 🖼 Prototype Image
+Here is an image of the prototype setup for the **Vehicle Accident Identification and Alert System**:
+
+<p align="center">
+  <img src="https://github.com/Sethulekshmy/ACCIDENT-IDENTIFICATION-AND-ALERTING-SYSTEM/blob/main/accident%20prototype.jpg" width="400" height="400"/>
+</p>
+
+
